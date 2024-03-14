@@ -4,7 +4,7 @@ We augment human pose estimation
 neural network to predict two classes: “Fall” or “No Fall”. From the poses, we extract five temporal and spatial
 features which are processed by an LSTM classifier.
 <p align="center">
-<img src="examples/fall.gif" width="420" />
+
 </p>
 
 ## Setup
